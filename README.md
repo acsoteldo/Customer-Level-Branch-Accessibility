@@ -1,5 +1,5 @@
 # Operational Performance Client Accessibility
-Evaluate service accessibility, operational performance, and client behavior to support branch strategy and resource allocation.
+Evaluate service accessibility, branch alignment, and client behavior at the customer level to support branch strategy.
 
 ## Getting Started: 
 1. Report and presentation
